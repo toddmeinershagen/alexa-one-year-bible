@@ -1,0 +1,20 @@
+{
+  "name": "alexa-one-year-bible",
+  "version": "1.0.0",
+  "description": "Reads the One Year Bible verses for the current day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Meinershagen",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.0.0"
+  },
+  "dependencies": {
+    "alexa-app-server": "^3.0.1",
+    "feedparser-promised": "^1.4.2",
+    "gulp-vinyl-zip": "^2.0.0"
+  }
+}

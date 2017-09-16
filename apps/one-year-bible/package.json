@@ -1,0 +1,15 @@
+{
+  "name": "one-year-bible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Meinershagen",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "feedparser-promised": "^1.4.2"
+  }
+}
